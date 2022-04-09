@@ -33,6 +33,6 @@
   },
   "dependencies": {
     "jsdom": "^16.2.2",
-    "moment": "^2.26.0"
+    "moment": "^2.29.2"
   }
 }
